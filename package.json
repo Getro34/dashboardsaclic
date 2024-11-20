@@ -1,0 +1,22 @@
+{
+      "name": "saclic-studio-employee-dashboard",
+      "version": "0.1.0",
+      "private": true,
+      "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+      },
+      "dependencies": {
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "supabase": "^1.0.0",
+        "tailwindcss": "^3.0.0",
+        "pdf-lib": "^1.17.1"
+      },
+      "devDependencies": {
+        "autoprefixer": "^10.0.0",
+        "postcss": "^8.0.0"
+      }
+    }
